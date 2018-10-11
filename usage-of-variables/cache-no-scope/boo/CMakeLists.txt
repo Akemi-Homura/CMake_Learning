@@ -1,0 +1,1 @@
+set(A "123" CACHE STRING "")
